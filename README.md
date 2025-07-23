@@ -286,8 +286,8 @@ curl -X POST https://inventory-api.railway.app/api/kafka/simulate/bulk \
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/inventory-management-fifo.git
-cd inventory-management-fifo/backend
+git clone https://github.com/misskranti/Inventory-Management-System.git
+cd Inventory-Management-System
 ```
 
 2. **Install dependencies**
@@ -332,7 +332,7 @@ npm run kafka:create-topic
 
 6. **Start the backend server**
 ```bash
-npm run dev
+npm start
 ```
 
 ### Frontend Setup
